@@ -7,7 +7,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_Workflows-1C3C3C)](https://www.langchain.com/langgraph)
 [![Google Colab](https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
-A collection of **10 hands-on Jupyter/Google Colab notebooks** exploring agentic AI patterns with Python, the OpenAI API, LangChain, and LangGraph.
+A collection of **10 hands-on Jupyter/Google Colab notebooks** exploring agentic AI patterns with Python, the OpenAI API, LangChain, and LangGraph as part of EPGP - Applied AI and Agentic AI from IIITB & UpGrad.
 
 The repository moves from basic agent loops and tool calling to stateful graphs, reflection, self-consistency, multi-agent orchestration, schema validation, ReAct execution, and multimodal insurance workflows.
 
@@ -32,7 +32,7 @@ The repository moves from basic agent loops and tool calling to stateful graphs,
 | [CSV Agent](https://github.com/akul-bharadwaj/various-agents/blob/main/CSV_Agent.ipynb) | Natural-language analysis of sales data through a LangChain CSV/Python agent. | LangChain, OpenAI, pandas | <a href="https://colab.research.google.com/github/akul-bharadwaj/various-agents/blob/main/CSV_Agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Tool Calling Agent](https://github.com/akul-bharadwaj/various-agents/blob/main/Tool_Agent.ipynb) | Dynamic orchestration of employee-performance, salary-gap, and improvement-plan tools. | LangChain, OpenAI, custom tools | <a href="https://colab.research.google.com/github/akul-bharadwaj/various-agents/blob/main/Tool_Agent.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | [Insurance Claim Processing — Multi-Agent](https://github.com/akul-bharadwaj/various-agents/blob/main/Insurance_Claim_Processing_Multi_Agents_with_LangGraph.ipynb) | A multi-agent claim workflow that evaluates policy, incident, and inspection information before producing a decision. | LangGraph, OpenAI, multi-agent workflow | <a href="https://colab.research.google.com/github/akul-bharadwaj/various-agents/blob/main/Insurance_Claim_Processing_Multi_Agents_with_LangGraph.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| [Motor Insurance Claim Processing — Multimodal](https://github.com/akul-bharadwaj/various-agents/blob/main/Motor_Insurance_Claim_Processing_with_Multi_Agents_%28Multimodal%29.ipynb) | A multimodal extension of insurance-claim processing using vehicle-damage evidence and specialised agents. | LangGraph, OpenAI, multimodal AI | <a href="https://colab.research.google.com/github/akul-bharadwaj/various-agents/blob/main/Motor_Insurance_Claim_Processing_with_Multi_Agents_%28Multimodal%29.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [Motor Insurance Claim Processing — Multimodal](https://github.com/akul-bharadwaj/various-agents/blob/main/Motor_Insurance_Claim_Processing_with_Multi_Agents_%28Multimodal%29.ipynb) | A multimodal extension of insurance-claim processing using vehicle-damage evidence and specialised agents. | OpenAI, multimodal AI | <a href="https://colab.research.google.com/github/akul-bharadwaj/various-agents/blob/main/Motor_Insurance_Claim_Processing_with_Multi_Agents_%28Multimodal%29.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ## Agentic Systems Case Studies
 
